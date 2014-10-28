@@ -1,7 +1,7 @@
 package com.command.demo01;
 
 /**
- * 厨师  接收者
+ * 厨师  接收者  接收者就是真正做具体操作的人
  * @author wz
  *
  */
@@ -12,3 +12,5 @@ public class Receiver {
 	}
  
 }
+
+
