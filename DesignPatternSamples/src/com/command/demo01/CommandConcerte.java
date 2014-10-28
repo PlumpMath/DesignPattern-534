@@ -1,4 +1,4 @@
-package com.command;
+package com.command.demo01;
 
 /**
  * 具体命令角色，接收者和行为的若耦合

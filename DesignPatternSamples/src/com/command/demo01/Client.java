@@ -1,4 +1,4 @@
-package com.command;
+package com.command.demo01;
 
 /**
  * 客户

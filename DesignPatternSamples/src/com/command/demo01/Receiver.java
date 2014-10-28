@@ -1,4 +1,4 @@
-package com.command;
+package com.command.demo01;
 
 /**
  * 厨师  接收者
